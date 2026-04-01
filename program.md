@@ -28,7 +28,9 @@ This program helps clients:
 - Inner child awareness  
 
 **Exercises:**
-- Journaling prompts  
+- Journaling prompts:
+  - What did I need growing up that I didn’t receive?
+  - When do I feel most emotionally triggered?
 - Self-reflection  
 
 #### 🪜 Sessions
