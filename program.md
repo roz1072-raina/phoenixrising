@@ -24,7 +24,8 @@ This program helps clients:
 - Exercises:
   - Journaling prompts
   - Self-reflection
-
+- Exercises:
+  - Journaling prompt: “What did I need growing up that I didn’t receive?”
 ---
 
 ### Module 2: Regulate (Stability)
@@ -35,7 +36,8 @@ This program helps clients:
 - Exercises:
   - Breathing work
   - Body awareness
-
+- Exercises:
+  - 5-4-3-2-1 grounding technique
 ---
 
 ### Module 3: Rewrite (Transformation)
@@ -46,7 +48,8 @@ This program helps clients:
 - Exercises:
   - Reframing thoughts
   - Affirmations
-
+- Exercises:
+  - Replace “I’m not enough” with “I am learning to trust myself”
 ---
 
 ### Module 4: Rise (Integration)
@@ -57,7 +60,8 @@ This program helps clients:
 - Exercises:
   - Action planning
   - Accountability
-
+- Exercises:
+  - Weekly goal setting with accountability check-ins
 ---
 
 ## Notes
