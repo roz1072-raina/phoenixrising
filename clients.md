@@ -7,51 +7,44 @@
 - Start Date:
 - Current Focus:
 - Notes:
-### Client: Test Client
-- Goal: Emotional regulation
-- Start Date: April 2026
-- Current Focus: Awareness
-- Notes: First session complete
-# Clients
-
-## Client Tracker
-
-### Client: [Name]
-- Start Date:
-- Current Module:
-- Current Session:
-- Goal:
+# 👥 Clients
 
 ---
 
-## Session Log
+## 🧾 Client Template
 
-### Session 1
-- Module: Reparent
-- Session: Identifying Patterns
-- Notes:
-- Client Breakthrough:
-- Next Step:
-
----
-
-### Session 2
-- Module:
-- Session:
-- Notes:
-- Client Breakthrough:
-- Next Step:
-### Client: Test Client
-- Start Date: April 2026
-- Current Module: Reparent
-- Current Session: Identifying Patterns
-- Goal: Emotional regulation
+### ✨ Client: [Name]
+- **Start Date:**  
+- **Current Module:**  
+- **Current Session:**  
+- **Goal:**  
 
 ---
 
-### Session 1
-- Module: Reparent
-- Session: Identifying Patterns
-- Notes: Client identified triggers around relationships
-- Client Breakthrough: Awareness of pattern
-- Next Step: Inner child reflection
+## 📓 Session Log Template
+
+### 🧠 Session 1
+- **Module:**  
+- **Session:**  
+- **Notes:**  
+- **Client Breakthrough:**  
+- **Next Step:**  
+
+---
+
+## 🔽 Active Clients
+
+### ✨ Client: Test Client
+- **Start Date:** April 2026  
+- **Current Module:** Reparent  
+- **Current Session:** Identifying Patterns  
+- **Goal:** Emotional regulation  
+
+---
+
+### 🧠 Session 1
+- **Module:** Reparent  
+- **Session:** Identifying Patterns  
+- **Notes:** Client identified triggers around relationships  
+- **Client Breakthrough:** Awareness of pattern  
+- **Next Step:** Inner child reflection  
