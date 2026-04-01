@@ -44,7 +44,10 @@
 
 ### 🧠 Session 1
 - **Module:** Reparent  
-- **Session:** Identifying Patterns  
-- **Notes:** Client identified triggers around relationships  
+- **Session:** Identifying Patterns
+- **Questions Asked:**
+- What triggered you this week?
+- When have you felt this before?
+ - **Notes:** Client identified triggers around relationships  
 - **Client Breakthrough:** Awareness of pattern  
 - **Next Step:** Inner child reflection  
