@@ -14,12 +14,7 @@ This program helps clients:
 - Rise into a new identity  
 
 ---
-
 ## 🧩 Modules
-
----
-
-
 ### 🌿 Module 1: Reparent (Awareness)
 
 **Goal:** Understand patterns and inner wounds  
@@ -129,10 +124,26 @@ This program helps clients:
 - “Let’s slow that down”
    -**Notes:**  
 - **Client Breakthrough:**  
-- **Next Step:**  
- **Session 3: Deepening Awareness**
+- **Next Step:**
+**Session 3: Deepening Awareness**
 - Focus: Recognizing repeated patterns
-- Activity: Reflect on triggers and emotional responses *Map triggers → reactions → outcomes*  
+- Activity: Reflect on triggers and emotional responses *Map triggers → reactions → outcomes*
+- ### 🗺️ Exercise: Trigger → Reaction Map
+Think about a recent situation where you felt emotionally triggered.
+**Fill in the map below**
+**Trigger (What happened?):**  
+**Emotion (What did you feel?):**  
+**Body Response (What did your body do?):**  
+**Thought (What did you tell yourself?):**  
+**Reaction (What did you do?):**  
+### 🔍 Reflection
+- What pattern do you notice?  
+- Does this feel familiar from past experiences?  
+- What did you need in that moment?  
+### ✨ Awareness Shift
+**Complete this sentence:**
+> “When this happens, I tend to ______ because I learned to ______.”
+
 ### 🌊 Module 2: Regulate (Stability)
 **Goal:** Build emotional control and safety  
 **Key Focus:**
