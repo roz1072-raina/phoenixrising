@@ -1,80 +1,69 @@
-# Coaching Program
+# 🌱 Coaching Program
 
-## Program Name
-Reparent. Regulate. Rewrite. Rise.™
+## ✨ Program Name
+**Reparent. Regulate. Rewrite. Rise.™**
 
 ---
 
-## Program Overview
+## 🧭 Program Overview
+
 This program helps clients:
-- Reconnect with themselves
-- Regulate emotions
-- Rewrite internal narratives
-- Rise into a new identity
+- Reconnect with themselves  
+- Regulate emotions  
+- Rewrite internal narratives  
+- Rise into a new identity  
 
 ---
 
-## Modules
+## 🧩 Modules
 
-### Module 1: Reparent (Awareness)
-- Goal: Help client understand patterns and inner wounds
-- Key Focus:
-  - Triggers
-  - Inner child awareness
-- Exercises:
-  - Journaling prompts
-  - Self-reflection
-- Exercises:
-  - Journaling prompt: “What did I need growing up that I didn’t receive?”
----#### Sessions
+---
+
+### 🌿 Module 1: Reparent (Awareness)
+
+**Goal:** Understand patterns and inner wounds  
+
+**Key Focus:**
+- Emotional triggers  
+- Inner child awareness  
+
+**Exercises:**
+- Journaling prompts  
+- Self-reflection  
+
+#### 🪜 Sessions
 
 **Session 1: Identifying Patterns**
-- Focus: Understanding emotional triggers
-- Activity: Discuss recent emotional experiences
+- Focus: Understanding emotional triggers  
+- Activity: Discuss recent emotional experiences  
 
 **Session 2: Inner Child Awareness**
-- Focus: Connecting to past unmet needs
-- Activity: Guided reflection or journaling
+- Focus: Connecting to past unmet needs  
+- Activity: Guided reflection  
 
 **Session 3: Emotional Mapping**
-- Focus: Recognizing patterns in behavior
-- Activity: Map triggers → reactions → outcomes
+- Focus: Recognizing behavior patterns  
+- Activity: Map triggers → reactions → outcomes  
 
-### Module 2: Regulate (Stability)
-- Goal: Build emotional control and safety
-- Key Focus:
-  - Nervous system regulation
-  - Grounding techniques
-- Exercises:
-  - Breathing work
-  - Body awareness
-- Exercises:
-  - 5-4-3-2-1 grounding technique
 ---
 
-### Module 3: Rewrite (Transformation)
-- Goal: Shift beliefs and thought patterns
-- Key Focus:
-  - Limiting beliefs
-  - Identity work
-- Exercises:
-  - Reframing thoughts
-  - Affirmations
-- Exercises:
-  - Replace “I’m not enough” with “I am learning to trust myself”
+### 🌊 Module 2: Regulate (Stability)
+
+**Goal:** Build emotional control and safety  
+
 ---
 
-### Module 4: Rise (Integration)
-- Goal: Step into a new version of self
-- Key Focus:
-  - Confidence
-  - Consistency
-- Exercises:
-  - Action planning
-  - Accountability
-- Exercises:
-  - Weekly goal setting with accountability check-ins
+### 🔥 Module 3: Rewrite (Transformation)
+
+**Goal:** Shift beliefs and thought patterns  
+
 ---
 
-## Notes
-- Add insights as you refine your program
+### 🌟 Module 4: Rise (Integration)
+
+**Goal:** Step into a new identity  
+
+---
+
+## 📝 Notes
+- Add insights as your program evolves  
