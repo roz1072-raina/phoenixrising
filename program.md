@@ -26,7 +26,19 @@ This program helps clients:
   - Self-reflection
 - Exercises:
   - Journaling prompt: “What did I need growing up that I didn’t receive?”
----
+---#### Sessions
+
+**Session 1: Identifying Patterns**
+- Focus: Understanding emotional triggers
+- Activity: Discuss recent emotional experiences
+
+**Session 2: Inner Child Awareness**
+- Focus: Connecting to past unmet needs
+- Activity: Guided reflection or journaling
+
+**Session 3: Emotional Mapping**
+- Focus: Recognizing patterns in behavior
+- Activity: Map triggers → reactions → outcomes
 
 ### Module 2: Regulate (Stability)
 - Goal: Build emotional control and safety
