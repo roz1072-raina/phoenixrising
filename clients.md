@@ -39,7 +39,26 @@
 - **Current Module:** Reparent  
 - **Current Session:** Identifying Patterns  
 - **Goal:** Emotional regulation  
+### ✨ Client: Rosalyn (Mock Client)
+- **Start Date:** April 2026  
+- **Current Module:** Reparent  
+- **Current Session:** Identifying Patterns  
+- **Goal:** Improve emotional regulation and learn somatic skills   
 
+---
+
+### 🧠 Session 1
+- **Module:** Reparent  
+- **Session:** Identifying Patterns  
+- **Questions Asked:**
+  - What triggered you this week?
+  - When have you felt this before?
+
+- **Notes:** Client shared feeling overwhelmed and was taught facial tension release 
+
+- **Client Breakthrough:** Realized reactions are connected to past experiences and was able to feel some release as per her report 
+
+- **Next Step:** Begin inner child reflection and journaling  
 ---
 
 ### 🧠 Session 1
