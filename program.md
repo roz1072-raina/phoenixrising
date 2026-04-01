@@ -19,6 +19,7 @@ This program helps clients:
 
 ---
 
+
 ### 🌿 Module 1: Reparent (Awareness)
 
 **Goal:** Understand patterns and inner wounds  
@@ -28,11 +29,23 @@ This program helps clients:
 - Inner child awareness  
 
 **Exercises:**
-- Journaling prompts:
+- Journaling prompts
   - What did I need growing up that I didn’t receive?
-  - When do I feel most emotionally triggered?
+  - When do I feel most emotionally triggered? 
 - Self-reflection  
+#### 💬 Question Bank
+- What triggered you this week?
+- When have you felt this before in your life?
+- What did you need in that moment that you didn’t receive?
+- How did you learn to respond this way?
+- What emotion is underneath this reaction?
 
+---
+
+#### 🪜 Sessions
+
+**Session 1: Identifying Patterns**
+...
 #### 🪜 Sessions
 
 **Session 1: Identifying Patterns**
