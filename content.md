@@ -25,9 +25,9 @@
 
 ### 📝 Post 1
 - **Topic:**  
-- **Hook:**  
+- **Hook:** What if your reactions aren’t the problem… but the wound is? 
 - **Caption:**  
-- **CTA:**  
+- **CTA:**  What triggered you this week?
 
 ---
 
