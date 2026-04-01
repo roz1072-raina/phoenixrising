@@ -6,53 +6,46 @@
 - Hook:
 - Message:
 - Call to Action:
+# ✨ Content System
 
 ---
 
-## Drafts
+## 💡 Ideas (Quick Capture)
 
-### Post 1
-# Content System
+> Dump ideas here fast—no overthinking
 
-## Ideas (Quick Capture)
-
-- Topic:
-- Hook:
-- Message:
-- CTA:
+- **Topic:**  
+- **Hook:**  
+- **Message:**  
+- **CTA:**  
 
 ---
 
-## Drafts (Work in Progress)
+## ✍️ Drafts (Work in Progress)
 
-### Post 1
-- Topic:
-- Hook:
-- Caption:
-- CTA:
-
----
-
-## Ready to Post
-
-### Post Title:
-- Caption:
-- Platform: (Instagram, Facebook, etc.)
+### 📝 Post 1
+- **Topic:**  
+- **Hook:**  
+- **Caption:**  
+- **CTA:**  
 
 ---
 
-## Posted Content (Archive)
+## 🚀 Ready to Post
 
-### Post Title:
-- Date Posted:
-- Platform:
-- Notes:- 
+### 📌 Post Title
+- **Caption:**  
+- **Platform:**  
+- **Date Scheduled:**  
 
 ---
 
-## Posted Content
-- Topic: Emotional triggers
-- Hook: “You’re not overreacting—you’re responding from a wound.”
-- Message: Help clients understand triggers come from past experiences
-- CTA: Reflect on what triggered you this week
-- 
+## 📦 Posted Content (Archive)
+
+### ✅ Post Title
+- **Date Posted:**  
+- **Platform:**  
+- **Notes / Performance:**  
+---
+
+
